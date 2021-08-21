@@ -17,3 +17,7 @@ The short answer is *no*, KUBBUR services will continue to run as normal since t
 # What is your long-term plan?
 
 In the long term KUBBUR will be finding more and more ways to completely eliminate carbon output. For example we already have plans for our first ever equipment hauling vehicles to be electric / hydrogen powered to facilitate the clean transit of servers and such. Another example is how we will only be using power efficient hardware for our operations in an attempt to use the limit electricity capacity clean energy naturally has as best as possible, wasting less on heat and more on the actual task of the machine.
+
+# Closing words
+
+Although this isn't the clearest press release ever I hope it explains our intentions clearly enough for most people to understand. We want the earth to stay here and are going to act in that mindset. If you have any questions at all please don't hesitate to reach out via email using the address [hello@kubbur.com](mailto:hello@kubbur.com).
