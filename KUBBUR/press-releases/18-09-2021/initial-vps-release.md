@@ -25,7 +25,7 @@ The services are priced as follows:
 
 Currently these VPS offerings (Path.net / Combahton.net Protected Ryzen 9) are available in Frankfurt/Falkenstein, Germany and London, United Kingdom. In Frankfurt and Falkenstein as of 18/09/2021 we rent hardware from Hetzner Online GmbH (then proxied through Combahton or Path) and Combahton GmbH. On the other hand in the United Kingdom we have 2 fresh Ryzen 9 servers running through Path's UK location, and there VPS servers can be upgraded to 10Gbps (still Fair use) for a €15/mo additional fee, we hope to bring this to Germany within the next year.
 
-![Ryzen 9 5950x VPS HOSTING](https://rankquality.com/upload/resize_cache/iblock/55c/340_345_1/amd_ryzen_9_5950x.front.variety.1602859853677.jpg)
+![Ryzen 9 5950x VPS HOSTING](https://www.techspot.com/articles-info/2131/images/ryzen-5950x-14.jpg)
 
 # The Future
 
