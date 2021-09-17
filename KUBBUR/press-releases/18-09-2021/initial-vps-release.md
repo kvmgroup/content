@@ -9,7 +9,8 @@ As of today, the 18th of Septemeber, 2021, we (KVM Group t/a KUBBUR) have releas
 
 All VPS current locations (Germany and the UK) are equipped with the highest-tier DDoS Protection from Path Networks, Inc. (https://path.net) or Combahton Gmbh (https://combahton.net) ensuring stability and completely redundancy on every service.
 
-![Path.net](https://path.net/static/path-logo-header.55b12727.png) ![Combahton.net](https://www.combahton.net/images/logo.png)
+![Path.net](https://path.net/static/path-logo-header.55b12727.png)
+![Combahton.net](https://www.combahton.net/images/logo.png)
 
 The largest difference between our VPS offerings and the standard market is our custom-made VPS management panel integrated seamlessly into our billing and homepage. The panel comes with full instant Firewall-Management, VNC console sessions, audit-logging and one-click reinstalls (more to come Q4 2021!). Already planned features are: one-click installations for Pterodactyl, OpenVPN, WireGuard, 
 
