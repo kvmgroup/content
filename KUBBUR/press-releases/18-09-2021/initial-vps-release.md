@@ -7,12 +7,11 @@ author: Gunnar Áki Þorsteinsson, Leifur Steinn Gunnarsson
 
 As of today, the 18th of Septemeber, 2021, we (KVM Group t/a KUBBUR) have released our longly-awaited VPS lineup of services available in Germany and London. These instances run AMD's Ryzen 3rd and 5th generation Ryzen 9 processing chips with a minimum of 12 and maximum of 16 cores per main node, DDR4 memory up to 3600MHz clock speeds and NVMe SSDs, making the instances as fast currently available. 
 
-All VPS current locations (Germany and the UK) are equipped with the highest-tier DDoS Protection from Path Networks, Inc. (https://path.net) or Combahton Gmbh (https://combahton.net) ensuring stability and completely redundancy on every service.
+All VPS current locations (Germany and the UK) are equipped with the highest-tier DDoS Protection from Path Networks, Inc. (https://path.net) or Combahton Gmbh (https://combahton.net) ensuring stability and completely redundancy on every service. Even better; every instance comes with unmetered (Fair Use) bandwidth through these networks.
 
 ![Path.net](https://path.net/static/path-logo-header.55b12727.png)
-![Combahton.net](https://www.combahton.net/images/logo.png)
 
-The largest difference between our VPS offerings and the standard market is our custom-made VPS management panel integrated seamlessly into our billing and homepage. The panel comes with full instant Firewall-Management, VNC console sessions, audit-logging and one-click reinstalls (more to come Q4 2021!). Already planned features are: one-click installations for Pterodactyl, OpenVPN, WireGuard, 
+The largest difference between our VPS offerings and the standard market is our custom-made VPS management panel integrated seamlessly into our billing and homepage. The panel comes with full instant Firewall-Management, VNC console sessions, audit-logging and one-click reinstalls (more to come Q4 2021!). Already planned features are: one-click installations for Pterodactyl which can manage Minecraft, Rust and other game servers, OpenVPN, WireGuard and Ghost; Seamless within-second scaling of instances and instant location migration.
 
 The services are priced as follows:
 
