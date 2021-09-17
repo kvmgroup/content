@@ -23,12 +23,12 @@ The services are priced as follows:
 
 From Q4 2021 and onward the KVM Group has set its target on having a physical presence of VPS and Cloud offerings in every one of the 4-5 most populated continents, and with that improve the overall experience and capabilities of our services. In doing so; we also seek to bring our customers, old and new, fresh services in different pricepoints in every location possible.
 
-## Order here: https://kubbur.com/vps
-Make sure to use code "VPSDROP" for 30% OFF your first month!
+## How do I get it?
+You can place an order at https://www.kubbur.com/en-gb/vps, make sure to use code "VPSDROP" for 30% OFF your first month!
 And refer your friends for 15% cash-back to you on their purchase(s): https://www.kubbur.com/account.
 
 Enjoy your weekend! - your favorite KVM Group.
 
 ![The KVM Group](https://i.imgur.com/NJWh15S.png)
 
-![KUBBUR.com](https://https://i.imgur.com/tBx682z.png)
+![KUBBUR.com](https://www.kubbur.com/static/img/logo.svg)
