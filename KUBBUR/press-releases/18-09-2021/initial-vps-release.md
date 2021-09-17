@@ -9,7 +9,7 @@ As of today, the 18th of Septemeber, 2021, we (KVM Group t/a KUBBUR) have releas
 
 All VPS current locations (Germany and the UK) are equipped with the highest-tier DDoS Protection from Path Networks, Inc. (https://path.net) or Combahton Gmbh (https://combahton.net) ensuring stability and completely redundancy on every service. Even better; every instance comes with unmetered (Fair Use) bandwidth through these networks.
 
-![Path.net](https://path.net/static/path-logo-header.55b12727.png)
+![Path.net](https://path.net/static/path-logo-header.55b12727.png) ![Combahton.net](https://i.imgur.com/o0Q1mgZ.png)
 
 The largest difference between our VPS offerings and the standard market is our custom-made VPS management panel integrated seamlessly into our billing and homepage. The panel comes with full instant Firewall-Management, VNC console sessions, audit-logging and one-click reinstalls (more to come Q4 2021!). Already planned features are: one-click installations for Pterodactyl which can manage Minecraft, Rust and other game servers, OpenVPN, WireGuard and Ghost; Seamless within-second scaling of instances and instant location migration.
 
@@ -20,6 +20,12 @@ The services are priced as follows:
 3-GB-KVM: €9/mo
 4-GB-KVM: €12/mo
 ... up to 32GB and further!
+
+# The Locations
+
+Currently these VPS offerings (Path.net / Combahton.net Protected Ryzen 9) are available in Frankfurt/Falkenstein, Germany and London, United Kingdom. In Frankfurt and Falkenstein as of 18/09/2021 we rent hardware from Hetzner Online GmbH (then proxied through Combahton or Path) and Combahton GmbH. On the other hand in the United Kingdom we have 2 fresh Ryzen 9 servers running through Path's UK location, and there VPS servers can be upgraded to 10Gbps (still Fair use) for a €15/mo additional fee, we hope to bring this to Germany within the next year.
+
+![Ryzen 9 5950x VPS HOSTING](https://rankquality.com/upload/resize_cache/iblock/55c/340_345_1/amd_ryzen_9_5950x.front.variety.1602859853677.jpg)
 
 # The Future
 
