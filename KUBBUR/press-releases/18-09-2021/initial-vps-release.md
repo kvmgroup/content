@@ -29,8 +29,6 @@ From Q4 2021 and onward the KVM Group has set its target on having a physical pr
 You can place an order at https://www.kubbur.com/en-gb/vps, make sure to use code "VPSDROP" for 30% OFF your first month!
 And refer your friends for 15% cash-back to you on their purchase(s): https://www.kubbur.com/account.
 
-Enjoy your weekend! - your favorite KVM Group.
+Enjoy your weekend! - your favorite KVM Group t/a KUBBUR.
 
 ![The KVM Group](https://i.imgur.com/NJWh15S.png)
-
-![KUBBUR.com](https://www.kubbur.com/static/img/logo.svg)
