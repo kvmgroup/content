@@ -3,7 +3,7 @@ title: How to migrate your old server files to KUBBUR
 author: KUBBUR Help
 ---
 
-# How to move your old server files to KUBBUR
+# How to move your old server files to KUBBUR (Pterodactyl & WISP Host)
 
 Lots of people are moving to KUBBUR from other hosting providers and they'd like their old server files, including their worlds and progress to stick with them, here's how we do it.
 
