@@ -17,7 +17,9 @@ To create a modded server you'll need:
 #(2) Get a KUBBUR or any mod supported server. 
   - For Forge and Fabric on newer versions (1.12+) we recommend using 4GB+ on our Extreme plan (Use code "SMP" for 30% OFF!)
   - Buy an Extreme plan here: https://KUBBUR.com/minecraft/extreme
- 
+
+> (2.2 Image) Here's what we recommend: ![KUBBUR Extreme Plans](https://i.imgur.com/5KTYpUS.png)
+
 #(3) Install your Moded JAR on your server:
   - Simply go to your server's management interface (such as https://panel.kubbur.com/) enter "File Management" and drop your Forge JAR in there. 
   - Set your startup JAR to the forge jar. 
