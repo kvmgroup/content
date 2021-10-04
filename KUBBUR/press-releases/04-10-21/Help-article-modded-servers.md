@@ -13,7 +13,9 @@ To create a modded server you'll need:
 **(1) Forge or FabricMC (or any other Modpack executable):**
   - Download Forge Server: https://files.minecraftforge.net/net/minecraftforge/forge/
   - Download Fabric Server: https://fabricmc.net/use/ (Make sure to install the .JAR Executable)
-  - For 1.16 and over you have to set your server java version to Java 16 in your KUBBUR management panel: https://kubbur.com/servers.
+  - For 1.16 and over you have to set your server java version to Java 16 in your KUBBUR management interface: https://kubbur.com/account/servers.
+
+> (1.3 Image) This is what the KUBBUR management interface looks like: ![Changing your server java version on KUBBUR](https://user-images.githubusercontent.com/50595002/135881371-50e8451b-7aa8-4d22-808c-ed1b7e5730b7.png)
 
 **(2) Get a KUBBUR or any mod supported server:**
   - For Forge and Fabric on newer versions (1.12+) we recommend using 4GB+ on our Extreme plan (Use code "SMP" for 30% OFF!)
