@@ -1,6 +1,7 @@
 ---
 title: Modern Slavery Statement
 author: KVM Group
+extract: It is KVM Group Limited’s stance that modern slavery is a fundimental violation of human rights, as well as, being a crime in the United Kingdom and elsewhere. Modern slavery may take many forms but they all share one common fact; people are being involuntarily used for unpaid or nearly unpaid labour for the commercial gain of the enslaver(s).
 ---
 
 # Modern Slavery Statement
